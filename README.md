@@ -1,7 +1,6 @@
 # Hello World! I am Harshita
 
-### In the world full of programmers, I am aspiring to become a full stack developer.I am a self-taught programmer.Currently I am learning Javascript.
-
+### In a world full of programmers, I am aspiring to become a full-stack developer. I am a self-taught programmer. Currently, I am learning JavaScript.
 
 
 <!---- <p>
