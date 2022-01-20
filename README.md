@@ -12,14 +12,17 @@
 <hr>
 <img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;**_Talking about me:_**
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;**_About me:_**
 
-- Currently learning JavaScript 
+- I am Currently learning JavaScript
+
 - Working on improving my **_DSA._**
-- Collaborating on various projects as an Open - Source Contributor
-- Desire to dive in the field of **_Product Management_** , **_Web Development_** 💻
-- Fun-Fact: Likes to read novels form Wattpad 😜
 
+- Collaborating on various projects as an Open-Source Contributor
+
+- Reach out to me through mail:- jaipurharshita1@gmail.com
+
+- Fun-Fact: Likes to read novels from Wattpad 😜 
 <br> 
 <hr>
   
