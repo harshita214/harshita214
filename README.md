@@ -1,9 +1,10 @@
-<h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px">  𝐇𝐞𝐥𝐥𝐨! I am Harshita
-<br><br>
+<h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px">  𝐇𝐞𝐥𝐥𝐨! I am Harshita Sharma
+<hr>
+<br>
 <p align="center">
   <em>
     A 2nd year undergraduate pursuing B.Tech (CSE) from Birla Institute of Technology,Mesra. <br>
-     <b>Learner | Reader | Coder | Aspiring Web-Developer | UI/UX designer </b> <br>
+     <b>Learner|Reader|Coder|Aspiring Web-Developer|UI/UX designer</b> <br>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
    
     
@@ -20,9 +21,10 @@
 
 - Collaborating on various projects as an Open-Source Contributor
 
+- Fun-Fact: Likes to read novels from Wattpad 😜 
+  
 - Reach out to me through mail:- jaipurharshita1@gmail.com
 
-- Fun-Fact: Likes to read novels from Wattpad 😜 
 <br> 
 <hr>
   
