@@ -1,18 +1,58 @@
-# Hello World! I am Harshita
+<h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px">  𝐇𝐞𝐥𝐥𝐨! I am Harshita
+<br><br>
+<p align="center">
+  <em>
+    A 2nd year undergraduate pursuing B.Tech (CSE) from Birla Institute of Technology,Mesra. <br>
+     <b>Learner | Reader | Coder | Aspiring Web-Developer | UI/UX designer </b> <br>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
+   
+    
+  </em>
+</p>
+<hr>
+<img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 
-### In a world full of programmers, I am aspiring to become a full-stack developer. I am a self-taught programmer. Currently, I am learning JavaScript.
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;**_Talking about me:_**
 
-
-<!---- <p>
-  
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  
-  
-</p> ---->
+- Currently learning JavaScript 
+- Working on improving my **_DSA._**
+- Collaborating on various projects as an Open - Source Contributor
+- Desire to dive in the field of **_Product Management_** , **_Web Development_** 💻
+- Fun-Fact: Likes to read novels form Wattpad 😜
 
 <br> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshita214&show_icons=true&theme=tokyonight"/>     
+<hr>
+  
+## 🛠 &nbsp;Tech Stack
 
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<p align="center">
+<!---<i><b><h2> GitHub Stats...📈  </b></i></h2>--->
+<img src="https://github-readme-stats.vercel.app/api?username=harshita214&count_private=true&show_icons=true&theme=radical" alt="GitHub Status" width="450px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshita214&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
+</p>
+  
+[![Harshita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=harshita214&theme=radical)](https://git.io/harshita214)
+   <br />
+<hr>
+
+### Connect with [me](https://harshitalinktree.netlify.app/) 😄
+  
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=harshita214&repo=harshita214&countColorcountColor&countColor=%237B1E7B"/>
