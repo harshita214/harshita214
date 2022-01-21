@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px">  𝐇𝐞𝐥𝐥𝐨! I am Harshita Sharma
 <hr>
-<br>
+
 <p align="center">
   <em>
     A 2nd year undergraduate pursuing B.Tech (CSE) from Birla Institute of Technology,Mesra. <br>
@@ -11,21 +11,17 @@
   </em>
 </p>
 <hr>
-<img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
+<img align="right" width=200px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;**_About me:_**
-
-- I am Currently learning JavaScript
-
-- Working on improving my **_DSA._**
-
-- Collaborating on various projects as an Open-Source Contributor
-
-- Fun-Fact: Likes to read novels from Wattpad 😜 
   
-- Reach out to me through mail:- jaipurharshita1@gmail.com
+  - Pronouns: She/Her
+  - I am Currently learning JavaScript
+  - Working on improving my **_DSA._**
+  - Collaborating on various projects as an Open-Source Contributor
+  - Fun-Fact: Likes to read novels from Wattpad 😜 
+  - Reach out to me through mail:- jaipurharshita1@gmail.com
 
-<br> 
 <hr>
   
 ## 🛠 &nbsp;Tech Stack
@@ -56,6 +52,8 @@
   
 [![Harshita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=harshita214&theme=radical)](https://git.io/harshita214)
    <br />
+
+
 <hr>
 
 ### Connect with [me](https://harshitalinktree.netlify.app/) 😄
