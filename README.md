@@ -3,8 +3,8 @@
 
 <p align="center">
   <em>
-    A 2nd year undergraduate pursuing B.Tech (CSE) from Birla Institute of Technology,Mesra. <br>
-     <b>Learner | Reader | Coder | Aspiring Web-Developer | UI/UX designer </b> <br>
+    3rd year undergraduate pursuing B.Tech (CSE) from Birla Institute of Technology,Mesra. <br>
+     <b>Learner | AI/ML | Coder | Web-Developer | UI/UX designer  </b> <br>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
    
     
