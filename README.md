@@ -3,8 +3,8 @@
 
 <p align="center">
   <em>
-    3rd year undergraduate pursuing B.Tech (CSE) from Birla Institute of Technology,Mesra. <br>
-     <b>Learner | AI/ML | Coder | Web-Developer | UI/UX designer  </b> <br>
+    Computer Science Grad from Birla Institute of Technology,Mesra. <br>
+     <b> Learner | ML Engineer | Coder | Software Developer </b> <br>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
    
     
@@ -13,10 +13,11 @@
 <hr>
 <img align="right" width=200px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 
-  &nbsp;**_About me_** <br>
+  **_About me_** 
+  
+  <br>
   
   - Pronouns: She/Her 👧
-  - Working on improving my **_DSA._** 📚
   - Contributer to differnt Open source - GSWOC'21 , WOC 2.0, SWOC 2.0✨
   - Mentor and Project Admin - JWOC'22 , GSSOC'22
   - Fun-Fact: Likes to read novels from Wattpad 😜 
